@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone project for coursera data science specializations with python.
+Applied Capstone project for coursera IBM data science specializations with python.
